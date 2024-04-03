@@ -1,0 +1,15 @@
+{
+  "name": "restapp",
+  "version": "1.0.0",
+  "description": "Aplicação REST simples",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Ítalo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "joi": "^17.12.2"
+  }
+}
